@@ -63,7 +63,7 @@ GET /scrape-wikipedia?url=https://en.wikipedia.org/wiki/Python_(programming_lang
 
 1. Clone the repository and create a virtual environment:
    ```bash
-   git clone https://github.com/adalkondan/API_repsoneforwikipedi.git
+   git clone https://github.com/adalkondan/API_repsoneforwikipedia.git
    cd API_repsoneforwikipedi.git
    pip install -r requirements.txt
    ```
