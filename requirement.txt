@@ -1,0 +1,4 @@
+[dependencies]
+Flask==2.0.0  # Install with: pip install flask
+requests==2.31.0  # Install with: pip install requests
+beautifulsoup4==4.11.1  # Install with: pip install beautifulsoup4
